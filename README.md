@@ -60,4 +60,4 @@
 
 ## ✨ Motto
 
-> "Learn continuously, build responsibly."
+> "Just Do it."
