@@ -89,7 +89,7 @@ Saya suka membangun aplikasi **modern, scalable, dan clean**, mulai dari backend
 
 ## ✨ Motto
 
-> "Build things that matter, write code that lasts."
+> "Yo Ndak Tau,Tanya Kok Nanya Saya."
 
 ---
 
